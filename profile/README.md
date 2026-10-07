@@ -16,40 +16,84 @@ This organization keeps those responsibilities separated instead of trying to pl
 
 ## Product Visual Preview
 
-The following are the **approved Basic Diet visual previews**. The organization profile and the dashboard repository both use the **same image assets from `Basic-Diet/client_dashbourd`**, so the visuals cannot drift between the two pages.
+The following are the **approved Basic Diet operations-dashboard visuals**. The organization profile and the dashboard repository now reference the **same Cloudinary assets**, so reviewers see the same product presentation from either entry point.
+
+<p align="center">
+  <a href="https://github.com/Basic-Diet/client_dashbourd">
+    <img src="https://res.cloudinary.com/dqs43oqer/image/upload/v1791404032/01-basic-diet-dashboard-overview_h0zrl1.png" alt="Basic Diet Dashboard Overview" width="100%" />
+  </a>
+</p>
 
 <table>
   <tr>
     <td width="50%">
-      <strong>Dashboard</strong><br />
+      <strong>Subscriptions Management</strong><br />
       <a href="https://github.com/Basic-Diet/client_dashbourd">
-        <img src="https://raw.githubusercontent.com/Basic-Diet/client_dashbourd/main/docs/screenshots/01-basic-diet-dashboard.png" alt="Basic Diet dashboard overview" />
+        <img src="https://res.cloudinary.com/dqs43oqer/image/upload/v1791404033/02-basic-diet-subscriptions-management_orste7.png" alt="Basic Diet Subscriptions Management" />
       </a>
     </td>
     <td width="50%">
-      <strong>Subscriptions</strong><br />
+      <strong>Payments Overview</strong><br />
       <a href="https://github.com/Basic-Diet/client_dashbourd">
-        <img src="https://raw.githubusercontent.com/Basic-Diet/client_dashbourd/main/docs/screenshots/02-basic-diet-subscriptions.png" alt="Basic Diet subscriptions" />
+        <img src="https://res.cloudinary.com/dqs43oqer/image/upload/v1791404031/03-basic-diet-payments-overview_gp3vw3.png" alt="Basic Diet Payments Overview" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <strong>Operations</strong><br />
+      <strong>Accounting Overview</strong><br />
       <a href="https://github.com/Basic-Diet/client_dashbourd">
-        <img src="https://raw.githubusercontent.com/Basic-Diet/client_dashbourd/main/docs/screenshots/03-basic-diet-operations.png" alt="Basic Diet operations board" />
+        <img src="https://res.cloudinary.com/dqs43oqer/image/upload/v1791404034/04-basic-diet-accounting-overview_h3ehkb.png" alt="Basic Diet Accounting Overview" />
       </a>
     </td>
     <td width="50%">
-      <strong>Accounting</strong><br />
+      <strong>Discount Codes Management</strong><br />
       <a href="https://github.com/Basic-Diet/client_dashbourd">
-        <img src="https://raw.githubusercontent.com/Basic-Diet/client_dashbourd/main/docs/screenshots/04-basic-diet-accounting.png" alt="Basic Diet accounting dashboard" />
+        <img src="https://res.cloudinary.com/dqs43oqer/image/upload/v1791404029/05-basic-diet-discount-codes-management_oyyozs.png" alt="Basic Diet Discount Codes Management" />
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <strong>Packages & Plans Management</strong><br />
+      <a href="https://github.com/Basic-Diet/client_dashbourd">
+        <img src="https://res.cloudinary.com/dqs43oqer/image/upload/v1791404037/06-basic-diet-packages-plans-management_gpkdkp.png" alt="Basic Diet Packages & Plans Management" />
+      </a>
+    </td>
+    <td width="50%">
+      <strong>Kitchen Operations Board</strong><br />
+      <a href="https://github.com/Basic-Diet/client_dashbourd">
+        <img src="https://res.cloudinary.com/dqs43oqer/image/upload/v1791404033/07-basic-diet-kitchen-operations-board_rve6sy.png" alt="Basic Diet Kitchen Operations Board" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Delivery Operations</strong><br />
+      <a href="https://github.com/Basic-Diet/client_dashbourd">
+        <img src="https://res.cloudinary.com/dqs43oqer/image/upload/v1791404039/08-basic-diet-delivery-operations_vela5v.png" alt="Basic Diet Delivery Operations" />
+      </a>
+    </td>
+    <td width="50%">
+      <strong>Users Management</strong><br />
+      <a href="https://github.com/Basic-Diet/client_dashbourd">
+        <img src="https://res.cloudinary.com/dqs43oqer/image/upload/v1791404038/09-basic-diet-users-management_jgx4xk.png" alt="Basic Diet Users Management" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Menu Management</strong><br />
+      <a href="https://github.com/Basic-Diet/client_dashbourd">
+        <img src="https://res.cloudinary.com/dqs43oqer/image/upload/v1791404039/10-basic-diet-menu-management_yw7fdr.png" alt="Basic Diet Menu Management" />
+      </a>
+    </td>
+    <td width="50%"></td>
+  </tr>
 </table>
 
-> The previews use fictional/sample values and do not expose authenticated production customer, subscription, payment, or accounting data.
+> These visuals are hosted on Cloudinary and use fictional/sample values. They do not expose authenticated production customer, subscription, payment, or accounting data.
+
 
 ---
 
