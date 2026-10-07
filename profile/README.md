@@ -11,6 +11,37 @@ Both applications depend on the same backend API. That backend is deliberately t
 
 This organization keeps those responsibilities separated instead of trying to place customer UX, staff operations, and sensitive business logic in one codebase.
 
+
+---
+
+## Product Visual Preview
+
+The following previews show the current **Basic Diet Operations Dashboard** experience across the main operational areas. They are the same source-faithful images used in the dashboard repository, built from the current RTL layout, React/Tailwind components, navigation, charts, tables, and operational workflows.
+
+<p align="center">
+  <a href="https://github.com/Basic-Diet/client_dashbourd">
+    <img src="https://raw.githubusercontent.com/Basic-Diet/client_dashbourd/main/docs/screenshots/01-basic-diet-dashboard.webp" alt="Basic Diet dashboard overview" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Basic-Diet/client_dashbourd">
+    <img src="https://raw.githubusercontent.com/Basic-Diet/client_dashbourd/main/docs/screenshots/02-basic-diet-subscriptions.webp" alt="Basic Diet subscriptions" width="49%" />
+  </a>
+  <a href="https://github.com/Basic-Diet/client_dashbourd">
+    <img src="https://raw.githubusercontent.com/Basic-Diet/client_dashbourd/main/docs/screenshots/03-basic-diet-operations.webp" alt="Basic Diet operations board" width="49%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Basic-Diet/client_dashbourd">
+    <img src="https://raw.githubusercontent.com/Basic-Diet/client_dashbourd/main/docs/screenshots/04-basic-diet-accounting.webp" alt="Basic Diet accounting" width="78%" />
+  </a>
+</p>
+
+> These previews use fictional/sample values and do not expose authenticated production customer, subscription, payment, or accounting data.
+
+
 ---
 
 ## Table of Contents
