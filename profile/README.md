@@ -46,6 +46,8 @@ The following previews show the current **Basic Diet Operations Dashboard** expe
 
 ## Table of Contents
 
+- [Product Visual Preview](#product-visual-preview)
+
 - [What Basic Diet Is](#what-basic-diet-is)
 - [Product Goals](#product-goals)
 - [Who the Platform Serves](#who-the-platform-serves)
