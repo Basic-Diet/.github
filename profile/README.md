@@ -16,31 +16,40 @@ This organization keeps those responsibilities separated instead of trying to pl
 
 ## Product Visual Preview
 
-The following previews show the current **Basic Diet Operations Dashboard** experience across the main operational areas. They are the same source-faithful images used in the dashboard repository, built from the current RTL layout, React/Tailwind components, navigation, charts, tables, and operational workflows.
+The following are the **approved Basic Diet visual previews**. The organization profile and the dashboard repository both use the **same image assets from `Basic-Diet/client_dashbourd`**, so the visuals cannot drift between the two pages.
 
-<p align="center">
-  <a href="https://github.com/Basic-Diet/client_dashbourd">
-    <img src="https://raw.githubusercontent.com/Basic-Diet/client_dashbourd/main/docs/screenshots/01-basic-diet-dashboard.webp" alt="Basic Diet dashboard overview" width="100%" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Dashboard</strong><br />
+      <a href="https://github.com/Basic-Diet/client_dashbourd">
+        <img src="https://raw.githubusercontent.com/Basic-Diet/client_dashbourd/main/docs/screenshots/01-basic-diet-dashboard.png" alt="Basic Diet dashboard overview" />
+      </a>
+    </td>
+    <td width="50%">
+      <strong>Subscriptions</strong><br />
+      <a href="https://github.com/Basic-Diet/client_dashbourd">
+        <img src="https://raw.githubusercontent.com/Basic-Diet/client_dashbourd/main/docs/screenshots/02-basic-diet-subscriptions.png" alt="Basic Diet subscriptions" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Operations</strong><br />
+      <a href="https://github.com/Basic-Diet/client_dashbourd">
+        <img src="https://raw.githubusercontent.com/Basic-Diet/client_dashbourd/main/docs/screenshots/03-basic-diet-operations.png" alt="Basic Diet operations board" />
+      </a>
+    </td>
+    <td width="50%">
+      <strong>Accounting</strong><br />
+      <a href="https://github.com/Basic-Diet/client_dashbourd">
+        <img src="https://raw.githubusercontent.com/Basic-Diet/client_dashbourd/main/docs/screenshots/04-basic-diet-accounting.png" alt="Basic Diet accounting dashboard" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/Basic-Diet/client_dashbourd">
-    <img src="https://raw.githubusercontent.com/Basic-Diet/client_dashbourd/main/docs/screenshots/02-basic-diet-subscriptions.webp" alt="Basic Diet subscriptions" width="49%" />
-  </a>
-  <a href="https://github.com/Basic-Diet/client_dashbourd">
-    <img src="https://raw.githubusercontent.com/Basic-Diet/client_dashbourd/main/docs/screenshots/03-basic-diet-operations.webp" alt="Basic Diet operations board" width="49%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Basic-Diet/client_dashbourd">
-    <img src="https://raw.githubusercontent.com/Basic-Diet/client_dashbourd/main/docs/screenshots/04-basic-diet-accounting.webp" alt="Basic Diet accounting" width="78%" />
-  </a>
-</p>
-
-> These previews use fictional/sample values and do not expose authenticated production customer, subscription, payment, or accounting data.
-
+> The previews use fictional/sample values and do not expose authenticated production customer, subscription, payment, or accounting data.
 
 ---
 
