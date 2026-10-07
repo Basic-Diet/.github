@@ -12,6 +12,13 @@ Both applications depend on the same backend API. That backend is deliberately t
 This organization keeps those responsibilities separated instead of trying to place customer UX, staff operations, and sensitive business logic in one codebase.
 
 
+
+<!-- PROJECT_BANNER_START -->
+<p align="center">
+  <img src="https://res.cloudinary.com/dqs43oqer/image/upload/v1791414963/ChatGPT_Image_Oct_8_2026_02_15_04_AM-1_yqa63s.png" alt="Basic Diet Project Banner" width="100%" />
+</p>
+<!-- PROJECT_BANNER_END -->
+
 ---
 
 ## Product Visual Preview
